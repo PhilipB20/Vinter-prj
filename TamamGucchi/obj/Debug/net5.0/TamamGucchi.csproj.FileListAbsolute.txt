@@ -1,0 +1,32 @@
+C:\Programmering\TamamGucchi\TamamGucchi\bin\Debug\net5.0\TamamGucchi.exe
+C:\Programmering\TamamGucchi\TamamGucchi\bin\Debug\net5.0\TamamGucchi.deps.json
+C:\Programmering\TamamGucchi\TamamGucchi\bin\Debug\net5.0\TamamGucchi.runtimeconfig.json
+C:\Programmering\TamamGucchi\TamamGucchi\bin\Debug\net5.0\TamamGucchi.runtimeconfig.dev.json
+C:\Programmering\TamamGucchi\TamamGucchi\bin\Debug\net5.0\TamamGucchi.dll
+C:\Programmering\TamamGucchi\TamamGucchi\bin\Debug\net5.0\ref\TamamGucchi.dll
+C:\Programmering\TamamGucchi\TamamGucchi\bin\Debug\net5.0\TamamGucchi.pdb
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\TamamGucchi.csproj.AssemblyReference.cache
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\TamamGucchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\TamamGucchi.AssemblyInfoInputs.cache
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\TamamGucchi.AssemblyInfo.cs
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\TamamGucchi.csproj.CoreCompileInputs.cache
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\TamamGucchi.dll
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\ref\TamamGucchi.dll
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\TamamGucchi.pdb
+C:\Programmering\TamamGucchi\TamamGucchi\obj\Debug\net5.0\TamamGucchi.genruntimeconfig.cache
+C:\Programmering\Vinter prj\TamamGucchi\bin\Debug\net5.0\TamamGucchi.exe
+C:\Programmering\Vinter prj\TamamGucchi\bin\Debug\net5.0\TamamGucchi.deps.json
+C:\Programmering\Vinter prj\TamamGucchi\bin\Debug\net5.0\TamamGucchi.runtimeconfig.json
+C:\Programmering\Vinter prj\TamamGucchi\bin\Debug\net5.0\TamamGucchi.runtimeconfig.dev.json
+C:\Programmering\Vinter prj\TamamGucchi\bin\Debug\net5.0\TamamGucchi.dll
+C:\Programmering\Vinter prj\TamamGucchi\bin\Debug\net5.0\ref\TamamGucchi.dll
+C:\Programmering\Vinter prj\TamamGucchi\bin\Debug\net5.0\TamamGucchi.pdb
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\TamamGucchi.csproj.AssemblyReference.cache
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\TamamGucchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\TamamGucchi.AssemblyInfoInputs.cache
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\TamamGucchi.AssemblyInfo.cs
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\TamamGucchi.csproj.CoreCompileInputs.cache
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\TamamGucchi.dll
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\ref\TamamGucchi.dll
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\TamamGucchi.pdb
+C:\Programmering\Vinter prj\TamamGucchi\obj\Debug\net5.0\TamamGucchi.genruntimeconfig.cache
